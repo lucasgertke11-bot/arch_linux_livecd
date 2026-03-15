@@ -258,4 +258,4 @@ This is base system files from Arch Linux. See [archlinux.org](https://archlinux
 
 - [Arch Wiki](https://wiki.archlinux.org)
 - [Calamares Documentation](https://calamares.io/docs/)
-- [DistroFroger Studio](https://github.com/yourusername/distrofrog-studio)
+
